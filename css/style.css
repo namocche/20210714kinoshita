@@ -1,0 +1,46 @@
+
+.title{
+  color: rgb(53, 53, 192);
+  display: flex;
+  padding: 20px 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: justify;
+}
+
+.menu{
+  color: rgb(53, 53, 228);
+  display:flex;
+  justify-content: flex-end;
+  font-size: 10px;
+  font-weight: bold;
+  padding-right: 20px;
+  text-align: justify;
+}
+
+.relative{
+  position: relative;
+  width: 100%;
+  font-size: 40px;
+  top: 500px;
+  display: block;
+  padding-bottom: 30px;
+}
+
+.blue{
+  position: absolute;
+  width: 750px;
+  height: 500px;
+  left: 750px;
+  top: -400px;
+  display: block;
+ 
+}
+
+
+
+.blue2{
+  width: 1000px;
+  height:150px;
+  background-color: rgb(23, 23, 151);
+}
